@@ -110,10 +110,9 @@ ul {
 
 .div3 {
     display: flex;
-
-
     text-align: center;
     justify-content: space-around;
+    padding: 4px;
 
 
 }
@@ -180,4 +179,5 @@ div {
 }
 section{
     display: flex;
+   justify-content: center;
 }
