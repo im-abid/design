@@ -26,7 +26,7 @@
     margin: 15px, 25px;
   
 }
-tittle2{
+.tittle2{
     font-size: medium;
     text-decoration-color: black;
 }
@@ -68,5 +68,5 @@ button{
 
   background-image: url(./gradient3.png);
   background-image: url(./watch.png);
-  
+
 }
